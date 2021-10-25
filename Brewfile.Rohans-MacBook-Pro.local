@@ -20,6 +20,7 @@ brew "mas"
 brew "speedtest-cli"
 brew "tldr"
 brew "toilet"
+brew "trash"
 brew "tree"
 brew "youtube-dl"
 brew "osx-cross/arm/arm-gcc-bin@10"
@@ -60,6 +61,7 @@ cask "little-snitch"
 cask "logitech-camera-settings"
 cask "logitech-options"
 cask "loopback"
+cask "mactex"
 cask "makemkv"
 cask "malwarebytes"
 cask "mathpix-snipping-tool"
@@ -98,6 +100,7 @@ mas "Developer", id: 640199958
 mas "Fantastical", id: 975937182
 mas "Flexcel", id: 1417665031
 mas "Friendly Streaming", id: 553245401
+mas "GIPHY CAPTURE", id: 668208984
 mas "Grammarly for Safari", id: 1462114288
 mas "Hand Mirror", id: 1502839586
 mas "HP Smart", id: 1474276998
