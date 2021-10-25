@@ -9,6 +9,7 @@ tap "romkatv/powerlevel10k"
 brew "coreutils"
 brew "cowsay"
 brew "ffmpeg"
+brew "figlet"
 brew "fortune"
 brew "gh"
 brew "htop"
@@ -89,18 +90,27 @@ cask "wireshark"
 cask "yacreader"
 cask "zoom"
 cask "zotero"
+mas "DaisyDisk", id: 411643860
 mas "Dark Reader for Safari", id: 1438243180
 mas "Developer", id: 640199958
 mas "Fantastical", id: 975937182
+mas "Flexcel", id: 1417665031
+mas "Friendly Streaming", id: 553245401
+mas "Grammarly for Safari", id: 1462114288
+mas "Hand Mirror", id: 1502839586
+mas "HP Smart", id: 1474276998
 mas "Keka", id: 470158793
 mas "Kindle", id: 405399194
-mas "Magnet", id: 441258766
+mas "Levelator", id: 1493326487
 mas "Meeter", id: 1510445899
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Outlook", id: 985367838
 mas "Microsoft PowerPoint", id: 462062816
 mas "Microsoft Word", id: 462054704
-mas "Notability", id: 736189492
+mas "Notability", id: 360593530
+mas "OneDrive", id: 823766827
 mas "Save to Pocket", id: 1477385213
 mas "Things", id: 904280696
+mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
