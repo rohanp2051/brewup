@@ -56,6 +56,6 @@ git commit -m "${DATE}_update" 2>&1
 git push 2>&1
 
 ## Missing Upgrades
-echo "${yellow}==>${reset} Upgrade on Your Own."
+echo "${yellow}==>${reset} Checking for Unfinished Upgrades..."
 brew outdated --greedy 2>&1
 echo "${green}==>${reset} Updates & Cleanups Finished!"
