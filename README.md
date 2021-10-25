@@ -1,4 +1,4 @@
-# BrewUp - macOS Auto Update Homebrew
+# brewup - macOS Auto Update Homebrew
 
 [![https://3os.org](https://img.shields.io/badge/Follow-https%3A%2F%2F3os.org-orange)](https://3os.org)
 ![GitHub forks](https://img.shields.io/github/forks/fire1ce/BrewUp?label=Fork)
