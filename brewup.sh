@@ -44,7 +44,6 @@ brew update 2>&1
 brew update 2>&1
 brew upgrade 2>&1
 brew upgrade --cask 2>&1
-brew outdated --greedy 2>&1
 brew cleanup -s 2>&1
 echo "${green}==>${reset} Finished Updates"
 
@@ -56,4 +55,7 @@ git add . 2>&1
 git commit -m "${DATE}_update" 2>&1
 git push 2>&1
 
-echo "${green}==>${reset} Updates & Cleanups Finished"
+## Missing Upgrades
+echo "${yellow}==>${reset} Upgrade on Your Own."
+brew outdated --greedy 2>&1
+echo "${green}==>${reset} Updates & Cleanups Finished!"
