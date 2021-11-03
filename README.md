@@ -35,23 +35,6 @@ It just runs few [Brew functionality](https://docs.brew.sh/) automatically:
 * [git (with active account)](https://github.com/)
 * Mas, terminal-notifier, coreutils __(will be installed if missing at the first script execution)__
 
-## Installing
-
-__Fork__ the repository __don't clone__ it
-
-![how to fork](https://w.3os.org/3os/brewup/fork.jpg)
-
-Copy the url of your new created __Fork__
-
-![Copy the Url](https://w.3os.org/3os/brewup/clone.jpg)
-
-This will clone the repository and create a symlink for use in the terminal
-
-```bash
-git clone <paste the copied url here>
-ln -s ${PWD}/BrewUp/brewup.sh /usr/local/bin/brewup
-```
-
 ## Usage
 
 just run from terminal:
