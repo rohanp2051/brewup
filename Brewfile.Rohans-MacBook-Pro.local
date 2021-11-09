@@ -94,6 +94,7 @@ cask "wireshark"
 cask "yacreader"
 cask "zoom"
 cask "zotero"
+mas "Amphetamine", id: 937984704
 mas "DaisyDisk", id: 411643860
 mas "Dark Reader for Safari", id: 1438243180
 mas "Developer", id: 640199958
