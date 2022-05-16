@@ -33,10 +33,10 @@ cd $(dirname "$(realpath "$0")")
 git pull 2>&1
 
 ## Brew Diagnotic
-echo "${yellow}==>${reset} Running Brew Diagnotic..."
+echo "${yellow}==>${reset} Running Brew Diagnostic..."
 brew doctor 2>&1
 brew missing 2>&1
-echo -e "${green}==>${reset} Brew Diagnotic Finished."
+echo -e "${green}==>${reset} Brew Diagnostic Finished."
 
 ## Brew packages update and cleanup
 echo "${yellow}==>${reset} Running Updates..."
