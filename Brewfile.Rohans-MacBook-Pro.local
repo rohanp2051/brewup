@@ -90,7 +90,7 @@ cask "sonos"
 cask "soundsource"
 cask "sourcetree"
 cask "steam"
-cask "tunnelblick"
+cask "tor-browser"
 cask "ultimaker-cura"
 cask "vcs-vision"
 cask "visual-studio-code"
@@ -102,6 +102,7 @@ cask "yacreader"
 cask "zoom"
 cask "zotero"
 mas "Amphetamine", id: 937984704
+mas "Bear", id: 1091189122
 mas "DaisyDisk", id: 411643860
 mas "Dark Reader for Safari", id: 1438243180
 mas "Developer", id: 640199958
@@ -122,6 +123,7 @@ mas "Microsoft Outlook", id: 985367838
 mas "Microsoft PowerPoint", id: 462062816
 mas "Microsoft Word", id: 462054704
 mas "Notability", id: 360593530
+mas "OmniGraffle", id: 1142578753
 mas "OneDrive", id: 823766827
 mas "Save to Pocket", id: 1477385213
 mas "Scrivener", id: 1310686187
