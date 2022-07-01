@@ -64,6 +64,7 @@ cask "intel-power-gadget"
 cask "ipfs"
 cask "iterm2"
 cask "jdownloader"
+cask "ledger-live"
 cask "little-snitch"
 cask "logitech-camera-settings"
 cask "logitech-g-hub"
@@ -117,6 +118,7 @@ mas "GIPHY CAPTURE", id: 668208984
 mas "Grammarly for Safari", id: 1462114288
 mas "Hand Mirror", id: 1502839586
 mas "HP Smart", id: 1474276998
+mas "Infuse", id: 1136220934
 mas "Keka", id: 470158793
 mas "Kindle", id: 405399194
 mas "Levelator", id: 1493326487
