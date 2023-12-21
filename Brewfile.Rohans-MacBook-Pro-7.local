@@ -93,8 +93,8 @@ cask "orion"
 cask "parallels"
 cask "philips-hue-sync"
 cask "plex-htpc"
-cask "pros-editor"
 cask "qbittorrent"
+cask "qflipper"
 cask "raspberry-pi-imager"
 cask "rectangle"
 cask "retroarch"
@@ -147,7 +147,7 @@ mas "OmniGraffle", id: 1142578753
 mas "OneDrive", id: 823766827
 mas "Prime Video", id: 545519333
 mas "Save to Pocket", id: 1477385213
-mas "Scrivener", id: 1310686187
+mas "Scrivener 3", id: 1310686187
 mas "Tampermonkey", id: 1482490089
 mas "Things", id: 904280696
 mas "Video Speed Controller", id: 1588368612
