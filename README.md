@@ -6,7 +6,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://mit-license.org/)
 
 <p align="center">
-    <img src="https://w.3os.org/3os/brewup/Cover.jpg" width=500>
+    <img src="https://user-images.githubusercontent.com/16795594/152403554-eb859e26-8232-4759-ba27-f025069c6f83.jpg" width=500>
 </p>
 
 ## Description
